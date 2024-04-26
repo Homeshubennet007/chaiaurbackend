@@ -1,20 +1,16 @@
 {
   "name": "dd3",
   "version": "1.0.0",
-  "description": "backend node project by hitesh sir",
-  "type": "module",
+  "description": "backend practise",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon src/index.js"
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "javascript",
     "chai",
-    "backend"
+    "babab"
   ],
-  "author": "homeshu",
-  "license": "ISC",
-  "devDependencies": {
-    "nodemon": "^3.1.0"
-  }
+  "author": "Homeshu",
+  "license": "ISC"
 }
